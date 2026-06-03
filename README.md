@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-5: Implementation of Kalman filter </H1>
 
-### Name: 
-### Register Number:
+### Name: MADHU MITHA V
+### Register Number: 2305002013
 
 
 ## Aim:
@@ -74,11 +74,9 @@ plt.plot([s[0] for s in est_states],label="Estimate")
 plt.legend()
 plt.show()
 ```
-___
 
 ## Output:
-
----
+<img width="648" height="464" alt="image" src="https://github.com/user-attachments/assets/046b7866-aac3-42db-af97-2584d3acd524" />
 
 ## Result:
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
